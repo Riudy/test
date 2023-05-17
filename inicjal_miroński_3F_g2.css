@@ -1,0 +1,16 @@
+p
+{
+color:purple;
+font-size:30pt;
+}
+p:first-letter
+{
+color:green;
+font-size:100pt;
+}
+A
+{
+color:red;
+font-size: 1cm;
+}
+/*Miroński Paweł, klasa 3Fgrupa2 data spr 17.05.2023*/

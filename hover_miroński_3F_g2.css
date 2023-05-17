@@ -1,0 +1,27 @@
+div#blok1_mir {
+background-color:yellow;
+width:630px;
+font-size:12mm;}
+div#blok2_mir {
+background-color:yellow;
+width:630px;
+font-size:12mm;}
+div#blok3_mir {
+background-color:yellow;
+width:630px;
+font-size:12mm;}
+div#blok1_mir:hover{
+background-color:silver;
+font-size:24mm;}
+div#blok2_mir:hover{
+background-color:fuchsia;
+font-size:24mm;}
+div#blok3_mir:hover{
+background-color:aqua;
+font-size:24mm;}
+A
+{
+color:red;
+font-size: 1cm;
+}
+/*Miroński Paweł, klasa 3Fgrupa2 data spr 17.05.2023*/
